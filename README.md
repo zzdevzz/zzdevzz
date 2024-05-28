@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
 <h3 align="center">A recent graduate from Le Wagon's Full Stack Developer Bootcamp. 🥳 </h3>
-<h4>Don't just get a dev. Get a Dev</h4>
+<h4 align="center">Don't just get a dev. Get a Dev</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzdevzz&label=Profile%20views&color=0e75b6&style=flat" alt="zzdevzz" /> </p>
 
