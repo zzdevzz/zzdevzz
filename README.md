@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
-<h3 align="center">A recent graduate from Le Wagon's Full Stack Developer Bootcamp. 🥳 </h3>
+<h3 align="center">Full Stack Developer</h3>
 
-**`Remember... Don't just get a dev. Get Dev.`**
+<p> I'm a full-stack developer and content creator with a wide range of interest. My background in architecture and animation led me here. I love using creativity and technology to solve problems. 🥳🥳🥳 </p>
 
 ---
 
@@ -18,7 +18,10 @@
 
 #
 
-### 🧰 Connect with me!:
+### 🧰 Connect with me!
+
+**`And remember... Don't just get a dev. Get Dev.`**
+
 <p align="left">
 <a href="https://linkedin.com/in/devhalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devhalai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/devcreates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devcreates" height="30" width="40" /></a>
