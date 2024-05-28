@@ -23,7 +23,7 @@
 
 ### 🧰 Connect with me!
 
-> And remember... Don't just get a dev. Get Dev.
+> Remember... Don't just get a dev. Get Dev. - <p> A very wise person </p>
 
 <p align="left">
 <a href="https://linkedin.com/in/devhalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devhalai" height="30" width="40" /></a>
