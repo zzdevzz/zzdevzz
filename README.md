@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzdevzz&label=Profile%20views&color=0e75b6&style=flat" alt="zzdevzz" /> </p>
 
-- 🔭 I’m currently working on [TaskWizard](taskwizard.devcreates.com)
+- 🔭 I’m currently working on [TaskWizard](https://taskwizard.devcreates.com/)
 
 - 🌱 I’m currently learning **Rails API development and Node.JS 😱😱😱**
 
