@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzdevzz&label=Profile%20views&color=0e75b6&style=flat" alt="zzdevzz" /> </p>
 
-- 🔭 I’m currently working on [ClearMoney](www.clearmoney.info)
+- 🔭 I’m currently working on [TaskWizard](taskwizard.devcreates.com)
 
-- 🌱 I’m currently learning **React, Vue and soon Node.JS 😱😱😱**
+- 🌱 I’m currently learning **Rails API development and Node.JS 😱😱😱**
 
 - 👨‍💻 All of my projects are available at [troopl.com/dev](troopl.com/dev)
 
